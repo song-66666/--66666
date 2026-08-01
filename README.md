@@ -24,7 +24,7 @@
 <tr>
 <td width="65%">
 
-I am a senior undergraduate at **Henan University of Engineering (HAUE)** and an incoming graduate student at **Wuhan University of Science and Technology (WUST)** under the supervision of **Prof. Chen Li**, starting September 2026. My research focuses on pushing the boundaries of multimodal intelligence — building systems that can see, read, and reason across visual and textual modalities.
+ starting September 2026. My research focuses on pushing the boundaries of multimodal intelligence — building systems that can see, read, and reason across visual and textual modalities.
 
 - 🔬 **Research Focus:** Multimodal Large Language Models, Vision-Language Alignment, Deep Learning
 - 📚 **Reading Groups:** Regular paper discussions on LLM architectures, multimodal fusion, and representation learning
